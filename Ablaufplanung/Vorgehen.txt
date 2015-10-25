@@ -1,2 +1,5 @@
 Weiteres Vorgehen
 
+INFO: In diesem Dokument werden die nächsten Termine mit einer kleinen Agenda hinterlegt
+
+03.11.15 - Vorstellung Konzept, bisher geschaffenes (Story Board) und Verteilung der ersten Stories
