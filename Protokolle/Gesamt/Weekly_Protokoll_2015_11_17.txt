@@ -1,0 +1,69 @@
+Meeting Protokoll vom 17.11.2015 12:00 bis 13:00 Uhr - SWE Refugees Welcome Plattform
+
+Unsere Website: https://ddc.derpy.ws ("Spielwiese")
+Storyboard: https://docs.google.com/spreadsheets/d/16N5eu0yM38uJgUU9UVnepE90Qff0_ujf9t0Hzrlt9jo
+
+
+Anwesenheiten:
+    - Stefan Ludowicy
+    - Jean Klodzinski
+    - Jan Bickmann
+    - Jasmin Clos
+    - Christoph Ramp
+    - Philipp Kneist
+    - Nico Remus
+    
+    Abgesagt:
+        - Sebastian Treske ("Um 12:00 Uhr habe ich oft die Möglichkeit mich mit Kollegen zu treffen, welche nicht in meinem Gebäude sitzen.")
+        - Eric Skowronski (<-- bittet um Zuweisung weiterer Storys zur Bearbeitung, hat parallelen Termin)
+        - Staats Philipp (wichtige Systemtests / Paralleltermin)
+        - Aras Mousavi (Paralleltermin)
+    Sheldon Jesudasan??
+
+
+
+Review:
+    - Linksammlung: in Arbeit
+    - Schwarzes Brett: Nico Remus - noch nicht bearbeitet
+    - Authentifizierungslösung: in Arbeit, Zwischenstand in Github + im Review heute vorgestellt; bearbeitung inkl UML bis nächsten Dienstag
+    - Struktur der Website: in Arbeit, UML in Arbeit, Zwischenstand im Review heute vorgestellt, RA-08 Arbeitsstand vorgestellt
+    - RA-34-Interface DB zu TomEE: in Arbeit, Stand: 25%
+    - Meilensteinplan: in Arbeit, fertige Zwischenversion bis nächsten Dienstag
+    - Applikationsserver: Stefan Ludowicy - in Arbeit, in Verzug aufgrund Konfigurationsprobleme / Java-Environment Installation
+    - DB-Server: Stefan Ludowicy - erledigt und Review durchgeführt
+    - Domain + CDN: Stefan Ludowicy - erledigt und Review durchgeführt
+	- Webserver: Stefan Ludowicy - Installation + Konfiguration und Review durchgeführt, allerdings Dokumentation unvollständig
+    - RA-23 Gesundheitssystem + kostenlose Ärzte erstellten Zwischenstand vorgestellt und Weiterbearbeitung an Christoph Ramp zugewiesen
+
+Retrospektive:
+    +  Storyboard hilfreich 
+    +
+    - Storyboard: mehrere Personen als Backup eintragbar
+    - Anwesenheit und Motivation der Teammitglieder
+
+Planning:
+    - OpenStreetMap: Philipp Kneist, Jan Bickmann RA 39 + RA 28
+    - Applikationserver: Stefan Ludowicy
+    - Backup für Nico RA 35 liegt bei Jan Bickman
+    - RA-14 Refugee Law Clinic - Eric Skowronski und Christoph Ramp Backup
+    - RA- SEO
+    - Storie Fortschritt Überprüfung durch JP und Stefan
+    
+Festlegungen:
+- Storie Fortschritt kann in dem Storyboard per Kommentar hinzugefügt werden :)
+- immer 2 Personen arbeiten an einer Storie (es sei denn Sie ist wirklich klein)
+- 
+
+folgende Email haben wir heute erhalten:
+BIS FREITAG zu bearbeiten!
+		Liebe Studierende,
+
+		über Frau Prof. Wieland habe ich vom Software-Entwicklungs Projekt und ihrem Projekt , der Welcom-App erfahren.
+		Kollegen aus der Telekom haben riesiges Interesse, hier mehr Informationen zu erhalten.
+		- Inhalt
+		- Zielgruppen
+		- Partner....etc.
+		Es wäre schön, wenn Sie mir Unterlagen zusenden können, bzw.. wenn Sie in der Hochschule sind - einfach mal bei mir vorbei kommen. Ich bin im Raum C0.79 zu finden.
+
+		Mit freundlichen Grüßen
+		Torsten Büttner
