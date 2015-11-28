@@ -1,0 +1,18 @@
+Review
+- Linksammlung
+- Hilfsseiten / Funktionalitäten
+- Wiki-System: Mediawiki
+- Apache HTTP, TomEE, MediaWiki, MariaDB, Cloudflare Security & Caching: installiert und konfiguriert
+
+
+Retrospektive:
+- Punkte wie Dienstag Meeting
+- Storyboard Backup sollte auch Punkte erhalten
+
+Planning
+- Wiki-System: Mediawiki - Dokumentation Philipp Kneist, Stefan Ludowicy: 23.11.15 Abends
+- Linksammlung:  Philipp Kneist, Sebastian Treske: Zwischenstand 20.11.15 Abends im GitHub, Fertig am 23.11.15 Abends
+- Open Street Map RA 39 + RA 28: Solution Design: Sheldon Jesudasan + Jan Bickmann; Implementierung: Philipp Kneist + Sebastian Treske (Code Infos von Stefan Ludowicy (Zuarbeit)): Zwischenstand Recherche 23.11.15 Abends im GitHub 
+- Apache HTTP -> TomEE Dokumentation + konfiguration + Stefan Ludowicy, Philipp Kneist: Zwischenstand 23.11.15 Abends in GitHub [TK ab 15:30 mgl)
+- Warum MariaDB?: Sebastian Treske - Fertig am 23.11.15 Abends
+- Wo gibt es was? RA 29: Jan Bickmann Zwischenstand 25.11.15 Abends
