@@ -1,0 +1,14 @@
+﻿Protokoll 2.11.2015
+
+
+Wieland:Vereine sollen für das wiki eine vorbereitete fest Struktur bekommen
+
+
+mindestens 30 Seiten Dokumentation
+Risikomanagement/Analyse als Bestandteil der Prüfungsleistung
+Stakeholderanalyse nur im Rahmen des Risikomgnt
+Handbuch und Installationsanleitung für die Software
+
+
+nfa anforderungen:
+Security/Performance/Datenschutz ...

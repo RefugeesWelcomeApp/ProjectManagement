@@ -1,0 +1,95 @@
+﻿Konzept Software Engineering -Flüchtlingshilfe Applikation
+
+
+Grobkonzept
+Ziel
+Mithilfe der mehrsprachigen Website/App soll es Flüchtigen und Asylsuchenden vereinfacht werden sich in Deutschland zurecht zu finden. Dazu sollen möglichst alle benötigten Infos für einen guten Start und weitere hilfreiche Funktionen integriert sein. Diese sollten möglichst genau auf die Anforderungen der Flüchtlinge zugeschnitten sein. Dazu gehört unter anderem eine sehr einfache Benutzeroberfläche die sofort verständlich ist und intuitiv bedienet werden kann – alle überflüssigen Informationen und Schnick schnack sollten nicht enthalten sein. Frei nach dem Motto „keep it simple“. Auch sollten in anderen Websites aufwändig gebaute Funktionalitäten möglichst nicht  nach gebaut werden. 
+Darüber hinaus stellt es die Prüfungsleistung der DWI 13 in dem Kurs „Softwareengineering“  dar. Ein Anspruch an die Software wie vergleichbare Projekte muss gegeben sein, um ein entsprechend gutes Ergebnis präsentieren zu können. 
+
+
+Zielgruppe
+Die Zielgruppe der zu erstellenden Website/App sind zum einen die Flüchtlinge und Asylsuchende, zum anderen die Helfer.
+Allgemeine Beschreibung der Funktionen
+*         Übersichtliche, thematische, einfach zugängliche Informationsammlung 
+   *         Behördenkontaktdaten zu den jeweiligen Standorten
+   *         Rechtliches Einmaleins
+   *         Anlaufstationen für z.B. kurzfristige Unterkünfte / Tafel / DRK
+   *         Infos der lokalen Refugee Law Clinics / andere lokale Vereine
+   *         häufig genutzte Rufnummern (Notrufnummern) + deren Aufgabengebiete
+   *         Gesundheitssystem Kostenlose Ärzte Wo finde ich einen in meiner Nähe
+   *         Verknüpfungen zu anderen Hilfeseiten und Funktionalitäten
+   *         …
+* Sofern möglich – Ermittlung des Standortes und Darstellung der gesuchten Informationen auf einer Karte („wo bin ich und wo muss ich hin“)
+* Ein Wikipedia – dort kann gemeinschaftlich dran gearbeitet werden. Inhaltlich dreht es sich um tiefergehende Infos zu Standorten (Freizeitaktivitäten bspw.)
+* Ein Forum, aufgebaut wie ein schwarzes Brett und Standortspezifisch, um Dienste öpanzugeben. Also eine Plattform für Helfer und Hilfesuchende – was brauche ich genau? Wer kann mir helfen? 
+* Freizeitbeschäftigung: Map/Wiki/Forum -> was kann ich in meiner Umgebung machen? Fußball etc.
+* Eine Funktion die erlaubt, herauszufinden welche Materialien ich in welchem La
+* den finde. Was gibt es im Baumarkt, was finde ich im Supermarkt. Wie heißen die Supermärkte? Und dann direkt eine Integration „auf Karte anzeigen“ – dort werden dann die benötigten Kategorien eingeblendet. (fließender Übergang)
+* Suchfunktion: Einfaches Schlagwortfiltern. Ich möchte mich nicht durchklicken? Okay – ich such danach
+* Formular Template: Deutschland hat ein Bürokratischer Djungel der allein für deutsche nicht immer durchschaubar ist – für Menschen die dann nicht einmal deutsch sprechen eine noch viel größere Herausforderung. Eine Standortbezogene Auflistung der benötigten Formularen mit Ausfülhilfe: Was bedeutet das Feld oder das? Was muss ich hier eintragen?
+
+
+Genutzte Medien
+*         Webseite
+*         App (nicht in „Version 1.0”)
+
+
+Rahmenbedingungen
+Technische Umgebung
+Die technische Lösung sollte möglichst in den Bereich des „no-Budgets“ fallen. Daher wird auf überwiegend Open-Source Software gesetzt. Das verwendete Modell soll eine Tier-3 Architektur sein – somit sind Skalierungsmöglichkeiten, falls ein durchschlagender Erfolg kommen sollte, gegeben.
+Als Client kommen alle Geräte in Frage, welche Websites darstellen können. (Desktop PC, Laptop, Tablet, Smartphone).
+Einsatzbedingungen
+Geltende Sicherheitsstandards müssen erfüllt sein. Insbesondere sobald Nutzerdaten gespeichert werden, ist dies unumgänglich.
+Die Website sollte innerhalb üblicher Reaktionszeiten agieren (max. 3 Sekunden beim Kunden).
+Rechtliches:
+Vorkenntnisse
+* Standard Hochschulwissen. Keine Besonderen Qualifikationen vorhanden.
+Einschränkungen
+* Durch fehlendes tiefergehendes Know how an vielen Stellen, ist eine 80% Lösung ausreichend. Es muss kein technisches Meisterwerk sein – vor allem da nur sehr begrenzte Zeit vorhanden ist im Rahmen des Projektes. Weiterentwicklung nach Abschluss der Ersten Phase steht derzeitig nicht fest.
+
+
+Vorgehensweise
+* Agil
+* Sprintlänge: 1 Woche
+* Story - Creation Team: to be defined
+* Unterscheidung der Stories in: 
+   * Entwicklung
+   * Research
+   * Design
+   * Visual Design
+* Storypoints = Arbeitstunden (60min reale Arbeit)
+
+
+
+
+Feinkonzept 
+ 
+Grafisches Konzept: 
+First Time View: 
+-> Länderauswahl via Flaggen (inklusive weiterer Auswahl der Sprache) 
+Die Länderauswahl dient zum Einen zur Auswahl der geeigneten Formulare, als auch der Wahl der angezeigten Sprache. 
+ 
+* Um zu den Inhalten der App zu navigieren werden wir Buttons benutzen. 
+* Unter den Willkommens- und Vorstellungstext wird ein Link gezeigt, wobei man zu den allerwichtigsten Zusammenfassungen für den Anfang geleitet wird (TODO und der ersten Anlaufstellen) 
+* Darunter die Buttons, welche mit zeitlicher Verzögerung per Mouseover kurze Zusammenfassungen zum Inhalt des jeweiligen Buttons zeigt 
+*  6 Buttons und eine Searchbar 
+- Button "Formular" mit dem Inhalt:
+·         Übersetzungen + Tipps zu Formularen
+- Button "Navigation" mit den Inhalten:
+·         Behördenkontaktdaten zu den jeweiligen Standorten
+·         Anlaufstationen für z.B. kurzfristige Unterkünfte / Tafel / DRK
+·         Zusammenfassung der wichtigsten Informationen je Standort
+- Button "Ärzte und andere Hilfen" mit den Inhalten:
+·         Infos der lokalen Refugee Law Clinics / andere lokale Vereine
+·         häufig genutzte Rufnummern (Notrufnummern) + deren Aufgabengebiete
+·         Gesundheitssystem Kostenlose Ärzte Wo finde ich einen in meiner Nähe
+- Button "Kommunikation" mit den Inhalten:
+·         Wiki-/Kollatorationsfunktion Standortbasiert
+·         Wörterbuchfunktion -> Integration
+·         Freizeitaktivitäten / Schwarzes Brett / News für lokale Standorte
+- Button "Deutschland" mit den Inhalten:
+·         Erklärung Rechtssystem in Deutschland
+·         Knigge in DE:
+·         How to Job in Deutschland (Integration/Verlinkung)
+- Button „Alltagsleben“ mit dem Inhalt:
+·         Suche nach Material X

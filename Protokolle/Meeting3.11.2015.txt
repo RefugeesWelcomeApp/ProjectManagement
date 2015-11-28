@@ -1,0 +1,33 @@
+﻿Meeting 3.11.2015
+
+
+1. Phase
+   1. Statusanalyse - wer hat was gemacht
+      1. Wer hat Prozente vorangebracht
+      2. Kommunikationen haben teilweise gefehlt
+      3. Verhinderungen durch teilweise Klausuren (Wissen zusammen getragen? Unsicher)
+      4. Auftrag: Story einschreiben
+      5. Auftrag: Wenn an Story gearbeitet, festhalten dieser Arbeit und Wissensammlung
+      6. Krankheitsfall (Design Recherche aber eingebracht)
+      7. Gedanken in Architektur gemacht, Screenshots in WhatsApp
+      8. Erste Aufsetzungen wurden durch geführt (technisch)
+      9. Aufgabe: TomEE & Eclipse (oder IntelliJ - besser) offiziell bekannt gegeben und soll von jeden durchgeführt (leichter Boykot, Aufgabe wird von einigen für überflüssig gehalten)
+   1. Ansprache: organisierteres Arbeiten
+      1. 1mal die Woche ein Meeting mit alle
+         1. Review, Planning, Retroperspektive
+→ Telko vereinbaren
+   1. Aufgabe: Install Enterprise Architect
+   1. Geplantes soll in UML umgesetzt werden (Solution Design)
+   1. Alle neuen Stories, die ein Part mit UML haben können, werden auch umgesetzt und erzeugt
+   2. GITHUB sollen alle endgültig nutzen!!
+   1. Phase
+   1. neue Story vergabe
+   1. Christoph: Refugee Design kopieren, umsetzen so das für uns anwendbar/umsetzbar
+   2. Erik, Aras & Jean: Websitestrucktur designen
+   3. Philipp Staats: Risikomanagement
+   4. Philipp Kneist & Sebastian Treske :Integration: Wikisystem
+   5. Sheldon: AngularJS
+   6. Jasmin: entschuldigt
+   7. Nico Remus: MS Project, StoryBoad
+   8. Nico Remus, Stefan L. & Philipp Staats: Aufsetzen und konfigurieren TomEE
+   1. Know-How Träger wurden fest gelegt ( → Story -Board)

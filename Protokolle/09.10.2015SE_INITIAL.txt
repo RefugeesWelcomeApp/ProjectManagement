@@ -1,0 +1,113 @@
+﻿Datum                         09.10.2015
+Schriftführung:                Nico Remus
+Anlass: Initiales Meeting SoftwareEntwicklung
+14.00-15:00
+
+
+Agenda:
+Konzeptvorstellung und Besprechung
+Individuelle Vorstellungsrunde
+Anpassung der Teams
+Festlegen von Regelterminen und Meilensteinen
+
+
+Anwesendheit:
+Aras
+Eric
+Jean Klod
+Sheldo
+Tobias
+Jasmin 
+Jan Bick
+Stefan
+nico
+
+
+Abwesend entschuldigt:
+Philipp Staats (durch Teammeeting gebunden)
+Kneist(Krankheitsfall bekannt und nicht separat eingeladen)
+Unentschuldigt:
+
+
+sebastian Treske ←- …….
+
+
+Ablauf:
+Vorstellung /Nennung der Agenda:
+
+
+1)Konzeptvorstellung und Besprechung
+Basiswortschatz
+Tobias: Translator benötigt auch eine Rückübersetzung
+formularkausalitäten
+        Aras: Formularien sind einzellfall scenarien
+        Jasmin: Vorauswahl der Länder/Personensituation 
+        Aras: Aktuell besteht ein Dolmetscherpool in den ämtern
+                -> Länderämter lönnen sich mit pools einscheriben….
+        Stefan: Weitere Organisationen Rotes Kreutz, ect.
+2)Individuelle Vorstellungsrunde
+Christoph Ramp zoff mit Stefan( webanwendung ist für dieses modul zu wenig)
+Aras: Mögliche Unterstützung durch TA(Preisausschreiben/Förderrung)
+
+
+3)Anpassung der Teams
+
+
+4)Festlegen von Regelterminen und Meilensteinen
+
+
+
+
+
+
+
+
+5) TomEE, Spring.io
+
+
+6)Anforderungsbeschreibung:
+* Wörterbuchfunktion -> Integration
+* Verknüpfung auf Reiseführer  / Marco Polo  / Wikitravel Länderinfos
+* Wiki-/Kollaborationsfunktion Standortbasiert
+   * Behördenkontaktdaten zu den jeweiligen Standorten
+   * Anlaufstationen für z.B. kurzfristige Unterkünfte / Tafel / DRK
+   * Zusammenfassung der wichtigsten Informationen je Standort
+   * Verlinkung ÖPNV / integration ÖPNV Apps
+   * Freizeitaktivitäten / Schwarzes Brett / News für lokale Standorte
+   * Infos der lokalen Refugee Law Clinics / andere lokale Vereine
+* Übersetzungen + Tipps zu Formularen
+* häufig genutzte Rufnummern (Notrufnummern) + deren Aufgabengebiete
+* OpenStreetMap Integration
+   * Kategorisierung
+   * In welchen Geschäften findet man welche Kategorien?
+   * Integration Suche nach Material X -> wo gibt es dies?
+   * mundraub.org (essbares in der Natur in deiner Umgebung) - Verlinkung / Integration / Standortdatenintegration
+   * kostenfreie Ärzte / sonstige Anlaufstellen
+* Unterstützung Mehrsprachigkeit
+* Erklärung Rechtssystem in Deutschland
+* TODO + erste Anlaufstelle 
+* Personen in der Nähe / Foursquare Integration / “Freunde in der Nähe"
+* How to Job in Deutschland (Integration/Verlinkung)
+* Knigge in DE: 
+   * Allgemeine Verhaltensregeln!
+   * Polizei: Dein Freund und Helfer!
+   * StVo
+   * (Forderungen an Gäste)
+
+
+Weiteres Vorgehen:
+1. Brainstorming
+2. Vorgehensweise wählen: Agil
+3. Was wir umsetzen wollen
+   * Visual Draft / Mockup
+   * Zieldefinition
+1. Meilensteinplan + Toollandschaft
+2. Aufgabenverteilung + Priorisierung
+   * fachliche Anforderungen
+   * Detailled Design + Architektur
+   * Application Implementation
+   * (Operations Management) 
+1. PG:
+   * Risikoanalyse
+   * Qualitätsmanagement
+15:52Uhr: Ende

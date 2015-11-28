@@ -1,0 +1,33 @@
+﻿12.11.2015 Meeting  
+·        Anwesenden:
+o   Jean
+o   Nico
+o   Stefan
+o   Philipp St.
+·        Sachlage aufgeklärt
+o   WhatsApp Nachrichten gelesen
+o   Diskutiert für Verständnis
+·        Festlegungen
+Thema 1 - Herausforderung Sebastian
+o   Meeting von Sebastian Treske an das Anfo Team
+o   Möglichkeit für Hr. Treske seine Probleme zu schildern
+o   Ebenfalls Verbesserungsvorschläge seiner Seits
+o   Anfo – Team:
+§  Hr. Treske abholen, Aufklären und Erklären
+§  Hr. Treske ins Team holen „gefühlte Ebene“
+o   Hr. Treske:
+§  Selbstinitiative        
+§  Bei keiner Initiative à Meldung an Fr. Wieland
+§  Selbst festgelegt Termine für Lieferung gegebener Stories
+
+
+Thema 2 - Definition der Forschrittswerte im Storyboard
+* 100%        GitHub und vom Team abgenommen
+* 099%        Github wurde von Anforderungsmanagement Team geprüft und für gut befunden → Review
+* 095%        Arbeit erledigt und in Github, zur Prüfung von Anfo-Team
+* 090%        Dokumentation im GitHub, durch Team(leitung) grob geprüft
+* 085%        Arbeit durch Team(leiter) geprüft
+* 080%         Arbeit angeblich erledigt, Dokumentation noch nicht in GitHub
+* < > %        Nach gutdünken setzen (von Verantwortlichen/TL an Anfo - Team)
+* 000%        Story zu Board hinzufügen ohne Verantwortlichen ->  Verantwortlichen festlegen (Planning) → Story verstanden und vergeben
+* - / -        Story in Github erstellen -> Story vervollständigt -> Storyboard
