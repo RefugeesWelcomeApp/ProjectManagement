@@ -10,5 +10,5 @@ Stakeholderanalyse nur im Rahmen des Risikomgnt
 Handbuch und Installationsanleitung für die Software
 
 
-nfa anforderungen:
+nfa anforderungen müssen in die DOku:
 Security/Performance/Datenschutz ...
